@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Enlace del funcionamiento
+
+https://stellar-contar-clics.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
